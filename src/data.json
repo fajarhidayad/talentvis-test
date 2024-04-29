@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hublot Watch",
+      "price": 5000000,
+      "imgUrl": "https://images.pexels.com/photos/9561297/pexels-photo-9561297.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Montblanc Watch",
+      "price": 6300000,
+      "imgUrl": "https://images.pexels.com/photos/9561301/pexels-photo-9561301.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Casio Watch",
+      "price": 7200000,
+      "imgUrl": "https://images.pexels.com/photos/16958879/pexels-photo-16958879/free-photo-of-silver-watch-on-black-background.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "name": "Curren Watch",
+      "price": 4700000,
+      "imgUrl": "https://images.pexels.com/photos/8839887/pexels-photo-8839887.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
