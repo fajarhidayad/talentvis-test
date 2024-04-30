@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export default function Navbar() {
   return (
     <nav className="container max-w-6xl flex items-center py-5">
-      <Link to="/" className="font-bold text-xl mr-16">
+      <Link to="/" className="font-bold text-xl mr-5 lg:mr-16">
         Shopcart
       </Link>
       <ul className="hidden md:flex items-center space-x-7 mr-auto">
@@ -17,7 +17,7 @@ export default function Navbar() {
 
       <Link
         to="/cart"
-        className="flex items-center space-x-2 ml-auto md:ml-10 rounded-full px-4 py-2 hover:bg-slate-100"
+        className="flex items-center space-x-2 ml-auto md:ml-5 rounded-full px-4 py-2 hover:bg-slate-100"
       >
         <ShoppingCartIcon />
         <span>Cart</span>

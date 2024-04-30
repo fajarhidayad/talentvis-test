@@ -23,6 +23,18 @@
       "name": "Curren Watch",
       "price": 4700000,
       "imgUrl": "https://images.pexels.com/photos/8839887/pexels-photo-8839887.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "name": "New Balance Shoes",
+      "price": 1750000,
+      "imgUrl": "https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "name": "Nike Air Max Shoes",
+      "price": 2400000,
+      "imgUrl": "https://images.pexels.com/photos/2404959/pexels-photo-2404959.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
   ]
 }
